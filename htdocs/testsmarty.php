@@ -12,4 +12,5 @@ $smarty->assign("title", "タイトル名");
 $file = 'testsmarty.tpl';
 
 $smarty->display($file);
+echo SMARTY_DIR . "templates/smarty.tpl\n";
 
