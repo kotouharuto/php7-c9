@@ -120,7 +120,7 @@ define( "_PEAR_PATH2", _PHP_LIBS_DIR . "PEAR/Pager/");
 ini_set('include_path', ini_get('include_path') . PATH_SEPARATOR . _PEAR_PATH1 .PATH_SEPARATOR . _PEAR_PATH2);
 
 // 入力フォーム機能を使用
-require_once("HTML/QuickForm2.php");
+require_once("/Applications/MAMP/htdocs/php7-c9/php_libs/PEAR/HTML/QuickForm2.php");
 require_once("HTML/QuickForm2/Renderer.php");
 
 // Smartyテンプレートエンジンを使用
