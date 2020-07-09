@@ -1,0 +1,14 @@
+## Application Files
+# Smarty
+php_libs/smarty/cache/*
+php_libs/smarty/templates_c/*
+
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
