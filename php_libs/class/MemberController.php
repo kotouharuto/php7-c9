@@ -10,7 +10,6 @@
  *
  * @author nagatayorinobu
  */
-require_once "BaseController.php";
 class MemberController extends BaseController
 {
     //----------------------------------------------------

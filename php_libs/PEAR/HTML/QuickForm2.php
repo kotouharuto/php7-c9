@@ -45,7 +45,7 @@
 /**
  * Abstract base class for QuickForm2 containers
  */
-require_once "/Applications/MAMP/htdocs/php7-c9/php_libs/PEAR/HTML/QuickForm2/Container.php";
+require_once 'HTML/QuickForm2/Container.php';
 
 /**
  * Data source for HTML_QuickForm2 objects based on superglobal arrays
